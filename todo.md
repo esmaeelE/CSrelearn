@@ -2,7 +2,10 @@
 
 ## Programming
 
-* Rust
-* Python
+### Rust
+
+### Python
   * [fast overview](pythonbasics.org)
-* C/C++ 
+
+### C/C++ 
+ * https://stevens.netmeister.org/
